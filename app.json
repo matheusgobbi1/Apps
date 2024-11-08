@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "BeanMusicApp",
+    "slug": "beanmusicapp",
+    "version": "1.0.0",
+    "extra": {
+      "API_URL": "https://seu-api-url.com"
+    }
+  }
+}
